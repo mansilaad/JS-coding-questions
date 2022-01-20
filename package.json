@@ -1,0 +1,19 @@
+{
+  "name": "js-coding-snippets",
+  "version": "1.0.0",
+  "description": "JS Coding Snippets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mansilaad/JS-coding-questions.git"
+  },
+  "author": "Mansi Laad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mansilaad/JS-coding-questions/issues"
+  },
+  "homepage": "https://github.com/mansilaad/JS-coding-questions#readme"
+}
