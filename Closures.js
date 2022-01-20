@@ -24,7 +24,7 @@ function x() {
   console.log(double(3));
   
   function arrayFromValue(item) {
-    return;
+    return;// Automatic return is added 
     [item];
   }
   console.log(arrayFromValue(10));
